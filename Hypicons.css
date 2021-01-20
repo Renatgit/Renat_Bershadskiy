@@ -1,0 +1,709 @@
+.back {
+    position: absolute;
+    width: 1281px;
+    height: 870px;
+    left: 0px;
+    top: 0px;
+    background: url(back.png);
+}
+.logo {
+    position: absolute;
+    left: 40px;
+    right: 87.18%;
+    top: 28px;
+}
+.intro {
+    position: absolute;
+    text-decoration: none;
+    height: 14px;
+    top: 28px;
+    left: 550px;
+    font-family: IBM Plex Mono;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 14px;
+    text-align: center;
+    text-transform: capitalize;
+    color: #FFFFFF;
+}
+.WhatsIncluded {
+    position: absolute;
+    text-decoration: none;
+    height: 14px;
+    top: 28px;
+    left: 650px;
+    font-family: IBM Plex Mono;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 14px;
+    text-align: center;
+    text-transform: capitalize;
+    color: #FFFFFF;
+}
+.iconrequest {
+    position: absolute;
+    text-decoration: none;
+    height: 14px;
+    top: 28px;
+    left: 820px;
+    font-family: IBM Plex Mono;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 14px;
+    text-align: center;
+    text-transform: capitalize;
+    color: #FFFFFF;
+}
+a.button14 {
+    position: absolute;
+    display: inline-block;
+    color: white;
+    text-decoration: none;
+    padding: .3em 1em;
+    border-radius: 100px;
+    left: 1150px;
+    outline: none;
+    background: #9400FF no-repeat;
+}
+.centre {
+    position: absolute;
+    height: 725.09375px;
+    width: 1244.5px;
+    left: 0.25px;
+    top: 115.1875px;
+    border-radius: 0px;
+}
+.up {
+    position: absolute;
+    height: 342px;
+    width: 609.3125px;
+    left: 98px;
+    top: 50px;
+    border-radius: 0px;    
+}
+.small {
+    position: absolute;
+    height: 25px;
+    width: 132px;
+    color: white;
+}
+.big {
+    font-family: Manrope;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 62px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: white;    
+}
+a.button15 {
+    position: absolute;
+    display: inline-block;
+    color: white;
+    text-decoration: none;
+    padding: 15px 10px;
+    border-radius: 100px;
+    left: 0px;
+    top: 270px;
+    width: 175px;
+    height: 13px;
+    outline: none;
+    background: #9400FF no-repeat;
+}
+.down {
+    position: absolute;
+    height: 300px;
+    width: 1269.375px;
+    left: 98px;
+    top: 450px;
+    border-radius: 0px;
+}
+.first {
+    position: absolute;
+    height: 250px;
+    width: 291.96875px;
+    left: 12.6875px;
+    top: 0px;
+    border-radius: 0px;
+}
+.firsttext {
+    height: 200px;
+    width: 291.96875px;
+    left: 0px;
+    top: 24.890625px;
+    border-radius: 0px;     
+}
+.onesmall {
+    position: absolute;
+    font-family: Manrope;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 25px;
+    letter-spacing: 0em;
+    text-align: left;
+    left: 0px;
+    top: -0.390625px;
+    border-radius: nullpx;
+    color: white;    
+}
+.twosmall {
+    position: absolute;
+    font-family: Manrope;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 100;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+    height: 120px;
+    width: 200px;
+    left: 0px;
+    top: 50px;
+    border-radius: nullpx;
+    color: white;
+}
+.second {
+    position: absolute;
+    height: 250px;
+    width: 291.96875px;
+    left: 330.03125px;
+    top: 0px;
+    border-radius: 0px;
+}
+.secondtext {
+    position: absolute;
+    height: 160px;
+    width: 291.96875px;
+    left: 0px;
+    top: 24.890625px;
+    border-radius: 0px;    
+}
+.onesmalldiv {
+    position: absolute;
+    font-family: Manrope;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 25px;
+    letter-spacing: 0em;
+    text-align: left;
+    left: -0.34375px;
+    top: -27px;
+    border-radius: nullpx;
+    color: white;   
+}
+.twosmalldiv {
+    position: absolute;
+    font-family: Manrope;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 100;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+    height: 120px;
+    width: 200px;
+    left: 0px;
+    top: 20px;
+    border-radius: nullpx;
+    color: white;
+}
+.third {
+    position: absolute;
+    height: 250px;
+    width: 291.96875px;
+    left: 647.375px;
+    top: 0px;
+    border-radius: 0px;
+}
+.thirdtext {
+    position: absolute;
+    height: 160px;
+    width: 291.96875px;
+    left: 0px;
+    top: 24.890625px;
+    border-radius: 0px;    
+}
+.onesmalldivtwo {
+    position: absolute;
+    font-family: Manrope;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 25px;
+    letter-spacing: 0em;
+    text-align: left;
+    left: -0.34375px;
+    top: -27px;
+    border-radius: nullpx;
+    color: white;
+}
+.twosmalldivtwo {
+    position: absolute;
+    font-family: Manrope;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 100;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+    height: 120px;
+    width: 200px;
+    left: 0px;
+    top: 20px;
+    border-radius: nullpx;
+    color: white;
+}
+.foundation {
+    position: absolute;
+    background-color: black;
+    height: 4300px;
+    width: 1378px;
+    left: -97.5px;
+    top: 869px;
+    border-radius: 0px;
+}
+.kontent {
+    position: absolute;
+    height: 1000px;
+    width: 1100px;
+    left: 200px;
+    top: 100px;
+    border-radius: 0px;
+}
+.text {
+    position: absolute;
+    height: 875px;
+    width: 594.859375px;
+    left: 12.390625px;
+    top: 0px;
+    border-radius: 0px;    
+}
+.photo {
+    position: absolute;
+    height: 978.515625px;
+    width: 594.859375px;
+    left: 550px;
+    top: 0px;
+    border-radius: 0px;
+    
+}
+.a {
+    position: absolute;
+    font-size: 250%;
+    height: 62px;
+    width: 405px;
+    left: 0.25px;
+    top: 348px;
+    border-radius: nullpx;
+    color: white;    
+}
+.b {
+    position: absolute;
+    height: 30px;
+    width: 335px;
+    left: 30.25px;
+    top: 450px;
+    border-radius: nullpx;
+    color: white;    
+}
+.c {
+    position: absolute;
+    height: 30px;
+    width: 335px;
+    left: 30.25px;
+    top: 480px;
+    border-radius: nullpx;
+    color: white;    
+}
+.d {
+    position: absolute;
+    height: 30px;
+    width: 335px;
+    left: 30.25px;
+    top: 510px;
+    border-radius: nullpx;
+    color: white;    
+}
+.f {
+    position: absolute;
+    height: 30px;
+    width: 335px;
+    left: 30.25px;
+    top: 540px;
+    border-radius: nullpx;
+    color: white;    
+}
+.g {
+    position: absolute;
+    height: 30px;
+    width: 335px;
+    left: 30.25px;
+    top: 570px;
+    border-radius: nullpx;
+    color: white;    
+}
+a.button16 {
+    position: absolute;
+    display: inline-block;
+    color: white;
+    text-decoration: none;
+    padding: 20px 30px;
+    border-radius: 100px;
+    left: 0px;
+    top: 700px;
+    width: 150px;
+    height: 13px;
+    outline: none;
+    background: #9400FF no-repeat;
+}
+.kontenttwo {
+    position: absolute;
+    background-color: black;
+    height: 1665.265625px;
+    width: 1050px;
+    left: 200px;
+    top: 1126.515625px;
+    border-radius: 0px;
+}
+.threeD {
+    position: absolute;
+    font-size: 175%;
+    height: 40px;
+    width: 253px;
+    left: 430px;
+    top: -0.78125px;
+    border-radius: nullpx;
+    color: white;    
+}
+.art {
+    position: absolute;
+    top: 100px;
+    left: -90px;
+}
+.ready {
+    position: absolute;
+    font-size: 175%;
+    height: 40px;
+    width: 185px;
+    left: 450px;
+    top: 1316.21875px;
+    border-radius: nullpx;
+    color: white;
+}
+.menu {
+    position: absolute;
+    top: 1420px;
+    left: -75px;
+}
+.kontentthree {
+    position: absolute;
+    height: 713px;
+    width: 1200px;
+    left: 125px;
+    top: 2815.78125px;
+    border-radius: 0px;    
+}
+.firstcolumn {
+    position: absolute;
+    height: 265px;
+    width: 187.0625px;
+    left: 100px;
+    top: 0px;
+    border-radius: 0px;    
+}
+.health {
+    position: absolute;
+    height: 25px;
+    width: 118px;
+    left: 34.25px;
+    top: -0.046875px;
+    border-radius: nullpx;
+    color: #999999;
+}
+.one {
+    position: absolute;
+    height: 220px;
+    width: 187.0625px;
+    left: -10px;
+    top: 45px;
+    border-radius: 0px;        
+}
+.secondcolumn {
+    position: absolute;
+    height: 683px;
+    width: 187.0625px;
+    left: 318.234375px;
+    top: 0px;
+    border-radius: 0px;        
+}
+.social {
+    position: absolute;
+    height: 25px;
+    width: 91px;
+    left: 48.40625px;
+    top: -0.046875px;
+    border-radius: nullpx;  
+    color: #999999; 
+}
+.two {
+    position: absolute;
+    height: 638px;
+    width: 187.0625px;
+    left: 0px;
+    top: 45px;
+    border-radius: 0px;    
+}
+.thirdcolumn {
+    position: absolute;
+    height: 463px;
+    width: 187.0625px;
+    left: 526.078125px;
+    top: 0px;
+    border-radius: 0px;    
+}
+.general {
+    position: absolute;
+    height: 25px;
+    width: 59px;
+    left: 63.5625px;
+    top: -0.046875px;
+    border-radius: nullpx;
+    color: #999999;    
+}
+.three {
+    position: absolute;
+    height: 418px;
+    width: 187.0625px;
+    left: -5px;
+    top: 45px;
+    border-radius: 0px;    
+}
+.fourthcolumn {
+    position: absolute;
+    height: 397px;
+    width: 187.0625px;
+    left: 733.921875px;
+    top: 0px;
+    border-radius: 0px;    
+}
+.entertainment {
+    position: absolute;
+    height: 25px;
+    width: 105px;
+    left: 40.71875px;
+    top: -0.046875px;
+    border-radius: nullpx;
+    color: #999999;    
+}
+.four {
+    position: absolute;
+    height: 352px;
+    width: 187.0625px;
+    left: -7px;
+    top: 45px;
+    border-radius: 0px;    
+}
+.fifth {
+    position: absolute;
+    height: 595px;
+    width: 187.0625px;
+    left: 941.765625px;
+    top: 0px;
+    border-radius: 0px;        
+}
+.apple {
+    position: absolute;
+    height: 25px;
+    width: 100px;
+    left: 43.875px;
+    top: -0.046875px;
+    border-radius: nullpx;
+    color: #999999;
+}
+.five {
+    position: absolute;
+    height: 550px;
+    width: 187.0625px;
+    left: 0px;
+    top: 45px;
+    border-radius: 0px;    
+}
+.kontentfour {
+    position: absolute;
+    height: 618.5px;
+    width: 1200px;
+    left: 125px;
+    top: 3592.78125px;
+    border-radius: 0px;    
+}
+.dog {
+    position: absolute;
+    height: 594.859375px;
+    width: 594.859375px;
+    left: 12.390625px;
+    top: 0px;
+    border-radius: 0px;    
+}
+.textnext {
+    position: absolute;
+    height: 618.5px;
+    width: 594.859375px;
+    left: 605px;
+    top: 0px;
+    border-radius: 0px;    
+}
+.dogone {
+    position: absolute;
+    height: 396px;
+    width: 396px;
+    left: 100px;
+    top: 150px;
+    border-radius: 0px;    
+}
+.framework {
+    position: absolute;
+    height: 245px;
+    width: 594.859375px;
+    left: 0px;
+    top: 186.75px;
+    border-radius: 0px;    
+}
+.icon {
+    position: absolute;
+    font-size: 200%;
+    height: 40px;
+    width: 179px;
+    left: -0.390625px;
+    top: 15px;
+    border-radius: nullpx;
+    color: white;    
+}
+.pack {
+    position: absolute;
+    font-weight: 100;
+    height: 90px;
+    width: 450px;
+    left: -0.390625px;
+    top: 100px;
+    border-radius: nullpx;
+    color: white;    
+}
+a.get {
+    position: absolute;
+    display: inline-block;
+    color: white;
+    text-decoration: none;
+    font-size: 85%;
+    padding: 18px 50px;
+    border-radius: 100px;
+    left: 0px;
+    top: 215px;
+    width: 75px;
+    height: 18px;
+    outline: none;
+    background: #9400FF no-repeat;
+}
+.grab {
+    position: absolute;
+    height: 400px;
+    width: 1378px;
+    left: -97.5px;
+    top: 5169px;
+    border-radius: 0px;    
+    background-color: black;
+}
+.the {
+    position: absolute;
+    background-color: rgba(0, 0, 0, 0);
+    height: 202px;
+    width: 1200px;
+    left: 125px;
+    top: 115.1875px;
+    border-radius: 0px;     
+}
+.gtp {
+    position: absolute;
+    font-size: 250%;
+    height: 52px;
+    width: 330px;
+    left: 450px;
+    top: -50px;
+    border-radius: nullpx;
+    color: white;    
+}
+.by {
+    position: absolute;
+    height: 26px;
+    width: 717px;
+    left: 290px;
+    top: 74.46875px;
+    border-radius: undefinedpx;
+    color: white;    
+}
+a.button20 {
+    position: absolute;
+    display: inline-block;
+    color: white;
+    text-decoration: none;
+    font-size: 75%;
+    padding: 20px 50px;
+    border-radius: 100px;
+    left: 470px;
+    top: 150px;
+    width: 90px;
+    height: 10px;
+    outline: none;
+    background: #9400FF no-repeat;
+}
+.last {
+    position: absolute;
+    background-color: black;
+    height: 370px;
+    width: 1378px;
+    left: 0px;
+    top: 5569px;
+    border-radius: 0px;        
+}
+.lastimg {
+    position: absolute;
+    height: 21px;
+    width: 200px;
+    left: 495px;
+    top: 100px;
+    border-radius: 0px;    
+}
+.upend {
+    position: absolute;
+    font-size: 120%;
+    height: 30px;
+    width: 86px;
+    left: 510px;
+    top: 140px;
+    border-radius: nullpx;
+    color: white;    
+}
+.mentioning {
+    position: absolute;
+    color: #9400FF;
+    font-size: 120%;
+    height: 30px;
+    width: 77px;
+    left: 600px;
+    top: 140px;
+    border-radius: nullpx;    
+}
+.end {
+    position: absolute;
+    height: 30px;
+    width: 400px;
+    left: 470px;
+    top: 250px;
+    border-radius: nullpx;
+    color: white;     
+}
